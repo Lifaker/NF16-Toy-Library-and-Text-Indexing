@@ -1,4 +1,4 @@
-# NF16-Toy-Library-and-BST
+# NF16-Toy-Library-and-Text-Indexing
 
 Author :  Célestin VALLOIS & Alexis Mathey (Université de Technologie de Compiègne)
 
@@ -8,7 +8,7 @@ Technology : C
 
 --- 
 
-Here is a practical exercise of the courses NF16 (Algorithms and data structures) in which we must implement do two projects in order to discover C, one little project of a toy library manager using linked lists and final project indexing a text using BST (Binary Search Tree).
+Here is a practical exercise of the courses NF16 (Algorithms and data structures) in which we must implement do two projects in order to discover C, one little project of a toy library manager using linked lists and final project indexing of text using BST (Binary Search Tree).
 
 Ceci est un projet du cours de NF16 (Algorithms and data structures) dans lequel nous devons implémenter deux projets dans le but de découvrir C, un petit projet d'une ludothèque avec des listes chainées et un projet final indixant un texte en utilisant les ABR (Arbre Binaire de Recherche).
 
@@ -28,7 +28,7 @@ Date : September 2014
 
 --
 
-#### Project 2 : Basic knowledge of C language (continued) (Connaissances de base sur le langage C (suite))
+##### Project 2 : Basic knowledge of C language (continued) (Connaissances de base sur le langage C (suite))
 
 Date : October 2014
 
@@ -62,4 +62,4 @@ Date : June 2016
 
 ---
 
-[Site view](https://celestinv.github.io/NF16-Toy-Library-and-BST/)
+[Site view](https://celestinv.github.io/NF16-Toy-Library-and-Text-Indexing/)
