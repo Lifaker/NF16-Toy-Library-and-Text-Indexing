@@ -1,6 +1,6 @@
 # NF16-Toy-Library-and-Text-Indexing
 
-Author :  Célestin VALLOIS & Alexis Mathey (Université de Technologie de Compiègne)
+Authors :  Célestin VALLOIS & Alexis Mathey (Université de Technologie de Compiègne)
 
 Date : Fall 2014
 
